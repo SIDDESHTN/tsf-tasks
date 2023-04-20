@@ -1,3 +1,2 @@
-# tsf-tasks
-Internship tasks.
-Task-1 OCR(Computer Vision and IoT)
+Hotel management system project
+Task-1 
